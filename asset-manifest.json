@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/citadellegin-app/static/css/main.33b2aac8.css",
+    "main.js": "/citadellegin-app/static/js/main.2aa6b8e9.js",
+    "index.html": "/citadellegin-app/index.html",
+    "main.33b2aac8.css.map": "/citadellegin-app/static/css/main.33b2aac8.css.map",
+    "main.2aa6b8e9.js.map": "/citadellegin-app/static/js/main.2aa6b8e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33b2aac8.css",
+    "static/js/main.2aa6b8e9.js"
+  ]
+}
