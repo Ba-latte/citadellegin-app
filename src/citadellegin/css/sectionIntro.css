@@ -1,0 +1,88 @@
+@charset "utf-8";
+
+/* 각섹션 소개 모듈 CSS - sectionIntro.css */
+
+
+#section_intro{
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.section_intro *{
+    /* outline: 1px dashed black; */
+}
+/* 1.각 섹션의 타이틀 */
+.section_intro{
+    margin: 50px 0;
+}
+
+/* 겉박스 세팅 */
+.sec_tit_container>.wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 30px 0;
+
+    height: 100vh;
+}
+
+
+/* 2.섹션 아티클 제목 */
+
+/* 제목(h3) 요소 */
+.title{
+    padding: 0 20px;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 6vmax;
+    color: var(--ft-navy-color);
+}
+.title>span{
+    display: flex;
+    flex-direction: column;
+
+    /* 자식요소 숨기기 */
+    overflow: hidden;
+}
+.letter{
+    display: inline-block;
+    line-height: 1;
+
+    position: relative;
+    top: 100%;
+}
+
+/* 3.섹션 아티클 설명 */
+/* 아티클 설명 겉박스 */
+.desc_bx{
+    max-width: 700px;
+
+    /* outline: 2px dashed black; */
+}
+/* 모든 단락 공통 세팅 */
+.desc{
+    padding: 0 20px;
+
+    font-family: 'Asap', sans-serif;
+    font-size: 16px;
+    line-height: 1.7;
+    color: var(--ft-navy-color);
+}
+/* 첫번째 단락 개별 세팅 */
+.desc:nth-child(1){
+    margin: 50px 0 20px;
+
+    font-size: 20px;
+}
+
+/* 4.섹션 아티클 이미지 */
+/* 이미지 겉박스 */
+.img_bx{
+    padding: 20px;
+}
+/* 이미지 요소 */
+.img_bx>img{
+    /* 부모 요소 가로값에 맞춰 세팅 */
+    width: 100%;
+    object-fit: cover;
+}

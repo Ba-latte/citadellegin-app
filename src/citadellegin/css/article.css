@@ -1,0 +1,107 @@
+@charset "utf-8";
+/* 아티클 컴포넌트 CSS - article.css */
+
+
+/**************** 제품 설명 아티클 ****************/
+/* 겉박스 */
+.description{
+    padding: 50px 0 50px;
+    color: var(--ft-navy-color);
+    
+    /* outline: 1px dashed hotpink; */
+}
+.description .wrap:has(.tit){
+    padding: 0 20px 0;
+    margin-bottom: 20px;
+
+    /* outline: 2px dashed lime; */
+}
+/* 아티클 타이틀 */
+.description .tit{
+    margin-bottom: 10px;
+
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 3.5vmax;
+    line-height: 1.2;
+}
+/* 아티클 서브 타이틀 */
+.description .subtit{
+    font-family: 'Asap', sans-serif;
+    font-size: 25px;
+    font-weight: normal;
+    line-height: 1.5;
+}
+/* 아티클 설명글 */
+.description .desc{
+    padding: 20px 20px 0;
+    margin-bottom: 20px;
+
+    font-family: 'Asap', sans-serif;
+    font-size: 18px;
+    line-height: 1.7;
+}
+/* 아티클 이미지 */
+.description .wrap:has(.img){
+    padding: 20px;
+}
+.description .img{
+    width: 100%;
+}
+
+/**************** 아티클 개별 세팅 ****************/
+
+
+/* 각 아티클 - 겉박스 세팅 */
+.description.recipe,
+.description.medal{
+    position: relative;
+    /* 부모자격 : 가상요소 */
+
+    /* outline: 2px dashed hotpink; */
+}
+
+/* 레시피 아티클 - 가상요소(윈도우 가로전체 배경) */
+.description.recipe::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0%;
+    transform: translateX(-50%);
+    z-index: -2;
+    width: 150vw;
+    height: 100%;
+
+    background-color: var(--bg-navy-color);
+    /* outline: 2px dashed lime; */
+}
+/* 레시피 아티클 - 글자 */
+.description.recipe{
+    color: var(--grey-light-color);
+}
+
+/* 메달 아티클 - img요소 겉박스 */
+.description.medal .wrap:has(>img){
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+/* 메달 아티클 - img요소 */
+.description.medal img{
+    width: 100%;
+    height: 100%;
+}
+/* 메달 아티클 - 가상요소(윈도우 가로전체 배경) */
+.description.medal::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0%;
+    transform: translateX(-50%);
+    z-index: -2;
+    width: 150vw;
+    height: 100%;
+
+    background-color: var(--ft-lemon-color);
+    /* outline: 2px dashed lime; */
+}
+

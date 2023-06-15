@@ -1,0 +1,74 @@
+@charset "utf-8";
+/* 각 제품 소개 모듈 CSS - details.css */
+
+
+/* 제일 겉 박스 */
+#details{
+    background-color: var(--btn-lemon-color);
+}
+.details{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    margin-bottom: 100px;
+
+}
+
+
+/* 제품명 박스 세팅 */
+.details .product_name_container{
+    padding: 100px 20px 0;
+    margin-bottom: 50px;
+}
+/* 제품명 폰트관련 세팅 */
+.details .product_name_container .name{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 7vmax;
+    color: var(--ft-navy-color);
+}
+/* 제품명(단어) 위치 세팅 */
+.details .product_name_container .name>span{
+    display: flex;
+    gap: 20px;
+}
+/* 제품명(뒤에 오는 단어) 개별 세팅 */
+.details .product_name_container .name .letter:nth-child(2){
+    font-style: italic;
+    color: var(--ft-lemon-color);
+}
+.details .product_name_container .name .letter.rouge:nth-child(2){
+    color: var(--ft-rose-color);
+}
+
+/* 그리드 박스 세팅 */
+.details .gridBx{
+    max-width: 1400px;
+    display: grid;
+    /* 가로 그리드 템플릿 */
+    grid-template-columns: repeat(12, 1fr);
+    grid-column-gap: 20px;
+
+    padding: 20px 20px 0;
+    margin-bottom: 50px;
+
+    /* outline: 1px dashed black; */
+}
+.details .product_img_container{
+    grid-column: 2/7;
+}
+.details .product_desc_container{
+    grid-column: 7/12;
+}
+
+
+
+/* 제품 유리병 img 요소 세팅 */
+.details .product_img_container img#product{
+    width: 100%;
+    margin-top: 30vh;
+
+    /* outline: 1px dashed red; */
+}
+

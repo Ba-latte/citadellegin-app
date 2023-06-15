@@ -1,0 +1,51 @@
+@charset "utf-8";
+
+/* 홍보 문구 모듈 컴포넌트 CSS - promotionalPhrase.css */
+
+.promo_phrase_container{
+    position: relative;
+    /* 부모자격 - 배경이미지 */
+    width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+/* 배경이미지 */
+.promo_phrase_container img.bg{
+    position: absolute;
+    z-index: -2;
+    top: 0;
+    left: 0;
+    height: 100%;
+
+    /* outline: 2px dashed blueviolet; */
+}
+
+/* 기업 로고 이미지 */
+.promo_phrase_container img.sticker{
+    width: 100px;
+    height: 100px;
+}
+/* 문구 겉박스 */
+.promo_phrase_container .wrap:has(.phrase){
+    max-width: 1000px;
+}
+/* 문구 */
+.promo_phrase_container .phrase{
+    text-align: center;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 6vmax;
+    font-weight: bold;
+    color: var(--ft-navy-color);
+}
+/* 특정 부분에 하이라이트 표시 */
+.promo_phrase_container .txt.hit{
+    color: var(--ft-lemon-color);
+}
+.promo_phrase_container .txt.rose{
+    color: var(--ft-rose-color);
+}

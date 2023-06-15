@@ -1,0 +1,85 @@
+@charset "utf-8";
+
+
+/* 폰트 CDN */
+@import "https://fonts.googleapis.com/css?family=Oswald";
+@import url("https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Dancing+Script:wght@400;500;600;700&display=swap");
+
+/*
+font-family: 'Asap', sans-serif;
+font-family: 'Cormorant Garamond', serif;
+font-family: 'Dancing Script', cursive;
+*/
+
+/* CSS 변수 지정 */
+:root{
+    /* 색상 */
+    --black-color: #000;
+    --white-color: #fff;
+    --grey-dark-color: #383838;
+    --grey-light-color: #faf8f5;
+    --bg-navy-color: #282864;
+    --bg-begie-color: #faf8f5;
+    --ft-navy-color: #121247;
+    --ft-lemon-color: #ffd732;
+    --ft-rose-color: #bf4949;
+    --loading-lemon-color: #fcb900;
+    --btn-lemon-color: #F8D532;
+    --arrow-grey-color: #D9D7D2;
+
+    /* 패딩 */
+    --padding: 20px;
+
+    /* 폰트 사이즈 */
+    --font-small: 14px;
+    --font-medium: 18px;
+    --font-large: 20px;
+    --font-title: 7vw;
+}
+
+/* 1. 마진,패딩 없애기 */
+html,body,h1,h2,h3,h4,h5,h6,ul,ol,dt,dd,p,figure{
+    margin: 0;
+    padding: 0;
+}
+/* 폰트 사이즈 루트 */
+body{
+    overflow-x: hidden;
+    /* 가로스크롤 생김 방지!(특히 모바일) */
+    font-size: 10px;
+
+    background-color: var(--bg-begie-color);
+}
+/* 2. a요소 리셋 */
+a{
+    color: var(--black-color);
+    /* 글자색 */
+    text-decoration: none;
+    /* 밑줄없앰 */
+}
+/* 3. ul,ol 리셋 */
+ul,ol{
+    list-style: none;
+    /* 블릿/숫자 제거 */
+}
+/* 5. 이미지 리셋 */
+img {
+    border: none;
+    /* 이미지 링크시 서버에서 볼때 파란색 자동보더 없애기 */
+    vertical-align: bottom;
+    /* 박스 이미지 하단간극 없애기 */
+}
+
+/* 구글 심볼 공통 디자인 세팅 */
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 48
+}
+
+/* 컨텐츠 영역 높이 지정 */
+main.cont{
+    min-height: calc(100vh - 80px - 210px);
+}

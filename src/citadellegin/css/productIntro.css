@@ -1,0 +1,171 @@
+@charset "utf-8";
+/* 각 제품 소개 모듈 CSS - productIntro.css */
+/* 제일 겉 박스 */
+.product_intro{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    margin-bottom: 100px;
+}
+
+/* 배경 이미지 */
+.product_intro>.wrap:has(.bg){
+    position: absolute;
+    top: 20%;
+    right: 0;
+    z-index: -1;
+}
+
+/* 제품명 박스 세팅 */
+.product_name_container{
+    padding: 100px 20px 0;
+    margin-bottom: 50px;
+}
+/* 제품명 폰트관련 세팅 */
+.product_name_container .name{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 7vmax;
+    color: var(--ft-navy-color);
+}
+/* 제품명(단어) 위치 세팅 */
+.product_name_container .name>span{
+    display: flex;
+    gap: 20px;
+}
+/* 제품명(뒤에 오는 단어) 개별 세팅 */
+.product_name_container .name .letter:nth-child(2){
+    font-style: italic;
+    color: var(--ft-lemon-color);
+}
+.product_name_container .name .letter.rouge:nth-child(2){
+    color: var(--ft-rose-color);
+}
+
+/* 그리드 박스 세팅 */
+.gridBx{
+    max-width: 1400px;
+    display: grid;
+    /* 가로 그리드 템플릿 */
+    grid-template-columns: repeat(12, 1fr);
+    grid-column-gap: 20px;
+
+    padding: 20px 20px 0;
+    margin-bottom: 50px;
+
+    /* outline: 1px dashed black; */
+}
+.product_img_container{
+    grid-column: 2/7;
+}
+.product_desc_container{
+    grid-column: 7/12;
+}
+
+/* 제품 이미지 설정 */
+/**************** 제품 설명 아티클 ****************/
+/* 제품 주변 꾸밈 이미지 세팅 */
+.product_img_container .wrap:has(.sticker){
+    position: absolute;
+    z-index: -1;
+
+    /* outline: 1px dashed blue; */
+}
+/* 꾸밈 이미지 공통 세팅 */
+.product_img_container img.sticker{
+    width: 100%;
+}
+/* 1.레몬 관련 세팅 */
+.wrap:has(.lemon){
+    width: 400px;
+    height: 400px;
+
+    top: 35%;
+    left: 15%;
+}
+/* 2.이파리 관련 세팅 */
+.wrap:has(.leaf-3){
+    width: 450px;
+    height: 450px;
+
+    top: 90%;
+    left: 35%;
+}
+/* 3.베리 관련 세팅 */
+.wrap:has(.berry){
+    width: 300px;
+    height: 300px;
+
+    top: 150%;
+    left: 10%;
+}
+/* 4.맨 위에 있는 라즈베리 관련 세팅 */
+.wrap:has(.raspberry3){
+    width: 400px;
+    height: 400px;
+
+    top: 35%;
+    left: 10%;
+}
+/* 5.중간에 있는 블랙베리 관련 세팅 */
+.wrap:has(.blackberry2){
+    width: 300px;
+    height: 300px;
+
+    top: 100%;
+    left: 40%;
+    transform: rotateY(180deg) rotate(19deg);
+}
+/* 6.아래쪽에 있는 작은 라즈베리 관련 세팅 */
+.wrap:has(.raspberry1){
+    width: 200px;
+    height: 200px;
+
+    top: 180%;
+    left: 13%;
+}
+/* 7.아래쪽에 있는 블랙베리 관련 세팅 */
+.wrap:has(.blackberry1){
+    width: 560px;
+    top: 220%;
+    left: 20%;
+    transform: rotateY(180deg) rotate(78deg);
+}
+/* 8.오이 관련 세팅 */
+.wrap:has(.cucumber4){
+    top: 60%;
+    left: 36%;
+    transform: rotate(45deg);
+}
+.wrap:has(.cucumber-flower){
+    top: 87%;
+    left: 14%;
+}
+.wrap:has(.cucumber6){
+    top: 125%;
+    left: 40%;
+    transform: rotate(62deg);
+}
+.wrap:has(.cucumber-leaf){
+    width: 200px;
+    height: 200px;
+    top: 170%;
+    left: 12%;
+    transform: rotateX(180deg) rotate(17deg);
+}
+.wrap:has(.cucumber5){
+    top: 250%;
+    left: 9%;
+    transform: rotate(45deg);
+}
+
+
+/* 제품 유리병 img 요소 세팅 */
+.product_img_container img#product{
+    width: 100%;
+    margin-top: 30vh;
+
+    /* outline: 1px dashed red; */
+}
+
