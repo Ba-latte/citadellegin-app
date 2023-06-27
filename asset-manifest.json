@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/citadellegin-app/static/css/main.4bfc0981.css",
-    "main.js": "/citadellegin-app/static/js/main.b577cee6.js",
+    "main.js": "/citadellegin-app/static/js/main.5220f184.js",
     "static/media/age_bg.png": "/citadellegin-app/static/media/age_bg.e10069d98be0dc374d07.png",
     "index.html": "/citadellegin-app/index.html",
     "main.4bfc0981.css.map": "/citadellegin-app/static/css/main.4bfc0981.css.map",
-    "main.b577cee6.js.map": "/citadellegin-app/static/js/main.b577cee6.js.map"
+    "main.5220f184.js.map": "/citadellegin-app/static/js/main.5220f184.js.map"
   },
   "entrypoints": [
     "static/css/main.4bfc0981.css",
-    "static/js/main.b577cee6.js"
+    "static/js/main.5220f184.js"
   ]
 }
