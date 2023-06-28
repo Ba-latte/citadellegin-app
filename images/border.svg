@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="61px" viewBox="0 0 120 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg/border</title>
+    <g id="border" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 1.000000)">
+        <line x1="-0.5" y1="50.5" x2="19.5" y2="50.5" id="Line-2-Copy-3" stroke="#D0D0D0" stroke-linecap="square"></line>
+        <line x1="100.5" y1="50.5" x2="120.5" y2="50.5" id="Line-2-Copy-3" stroke="#D0D0D0" stroke-linecap="square"></line>
+        <line x1="40.5" y1="50.5" x2="79.5" y2="50.5" id="Line-2-Copy-3" stroke="#D0D0D0" stroke-linecap="square"></line>
+        <circle id="Oval-Copy" fill="#D0D0D0" cx="30" cy="50.5" r="1.5"></circle>
+        <circle id="Oval-Copy" fill="#D0D0D0" cx="90" cy="50.5" r="1.5"></circle>
+    </g>
+</svg>
