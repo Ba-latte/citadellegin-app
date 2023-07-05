@@ -1,6 +1,7 @@
 # 🍹citadellegin-app🍸
 React를 활용해서 만든 SPA 포트폴리오입니다.   
-이 레파지토리는 사이트 배포용이며 코드를 보시려면 <a href="https://github.com/Ba-latte/FED-PJ-WBS-youj" target="_blank">여기</a>로 이동해주세요.
+이 레파지토리는 사이트 배포용이며 코드를 보시려면 <a href="https://github.com/Ba-latte/FED-PJ-WBS-youj" target="_blank">여기</a>로 이동해주세요.   
+해당 포트폴리오를 제작하며 작성한 일지가 궁금하시다면 <a href="https://blog.naver.com/youj_lim/223108322887" target="_blank">여기</a>로 이동해주세요.   
 
 <br /><br />
 
@@ -83,9 +84,7 @@ props로 1depth 페이지 컴포넌트에 가지고 들어갈 데이터를 구�
 
 <br /><br />
 
-## 6. 히스토리
 
-<br /><br />
 
 
 
