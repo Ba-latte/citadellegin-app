@@ -9,7 +9,7 @@ React를 활용해서 만든 SPA 포트폴리오입니다.
 1.	[기획의도](#1-기획의도)
 2.	[개발환경](#2-개발-및-배포-환경)
 3.	[프로젝트 기획](#3-프로젝트-기획)
-4.	[주요기능](#4-주요기능)
+4.	[주요기능 명세](#4-주요기능-명세)
 5.	[기능 시연](#5-기능-시연)
 
 <br /><br />
@@ -74,7 +74,7 @@ chrome을 기준으로 개발하였기 때문에 되도록 chrome을 사용해�
 
 <br /><br />
 
-## 4. 주요기능
+## 4. 주요기능 명세
 ### 4-1. 로딩 페이지
 ![loading](https://github.com/Ba-latte/citadellegin-app/assets/118030935/1183cdc8-408b-45ab-acb7-7d14ac82053b)   
 사이트 최초 진입시 로딩 화면으로 연결되어 일정 시간이 지난 후 메인 화면을 띄웁니다.   
@@ -123,19 +123,25 @@ props로 1depth 페이지 컴포넌트에 가지고 들어갈 데이터를 구�
 ## 5. 기능 시연
 
 ### 5-1. 로딩 페이지
-![loading](https://github.com/Ba-latte/citadellegin-app/assets/118030935/79209815-7a30-4b85-8b9a-72ea0f74de6f)   
+![loading_830](https://github.com/Ba-latte/citadellegin-app/assets/118030935/32cdf5c4-a9eb-486d-8412-4e866df85388)
 
 ### 5-2. 쿠키를 활용한 법적 나이 체크 팝업창
-![legal_age_check01](https://github.com/Ba-latte/citadellegin-app/assets/118030935/8365d551-e50b-42e1-a811-29ca2ea5c9ca)   
-![legal_age_check02](https://github.com/Ba-latte/citadellegin-app/assets/118030935/9b9b3aca-d48d-4665-9d6c-ee2873703505)   
+![legal_age_check01](https://github.com/Ba-latte/citadellegin-app/assets/118030935/81429853-8504-4c6b-a49c-05f87649bddf)
+![legal_age_check02](https://github.com/Ba-latte/citadellegin-app/assets/118030935/54063d05-d676-48df-a0f7-9a6a44af7300)   
 
 ### 5-3. 햄버거 버튼 클릭 시 gnb 메뉴 등장 클립패스 애니메이션   
-![menu_animation01](https://github.com/Ba-latte/citadellegin-app/assets/118030935/62abdf45-b42a-418b-a416-d6ef9ba0e624)   
+![menu_animation01](https://github.com/Ba-latte/citadellegin-app/assets/118030935/48accf6d-32af-4ab8-9e34-2ad6568a303e)
+![menu_animation02](https://github.com/Ba-latte/citadellegin-app/assets/118030935/0e3435e3-e9ac-46c7-972f-ea273503fa91)
 
 ### 5-4. 1depth 페이지 순환 구조   
+![loop01](https://github.com/Ba-latte/citadellegin-app/assets/118030935/25db6791-6403-4676-80bf-b9cb532cd1ee)
+![loop02](https://github.com/Ba-latte/citadellegin-app/assets/118030935/eef105df-c67f-464d-8076-0bf015199294)   
+
 
 
 ### 5-5. 스크롤 이벤트에 따른 보틀 회전 애니메이션   
+![bottle_spin_animation01](https://github.com/Ba-latte/citadellegin-app/assets/118030935/9ae7c976-1398-467c-a6a7-aa4ffc4e6e7a)
+![bottle_spin_animation02](https://github.com/Ba-latte/citadellegin-app/assets/118030935/4c40b84b-652d-4fad-931e-6dac240702a6)
 
 <br /><br />
 
