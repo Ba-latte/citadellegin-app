@@ -10,7 +10,7 @@ React를 활용해서 만든 SPA 포트폴리오입니다.
 2.	[개발환경](#2-개발-및-배포-환경)
 3.	[프로젝트 기획](#3-프로젝트-기획)
 4.	[주요기능](#4-주요기능)
-5.	[테스트 케이스](#5-테스트-케이스)
+5.	[기능 시연](#5-기능-시연)
 
 <br /><br />
 
@@ -60,7 +60,7 @@ chrome을 기준으로 개발하였기 때문에 되도록 chrome을 사용해�
 ### 3-1. 사이트 선정
 👉 <a href="https://citadellegin.com/en/" target="_blank">Citadelle</a>   
 선정한 사이트는 진(gin)을 판매하는 프랑스 회사의 영문 사이트입니다.   
-기존에 사이트를 구현할 만큼의 데이터를 가지고 있지 않아서 적절한 양의 콘텐츠를 가지고 있는 사이트를 선정해 직접 구현했습니다.   
+적절한 양의 콘텐츠를 가지고 있는 사이트를 선정하여 벤치마킹하였습니다.   
 페이지간 이동이 순환구조로 되어 있다는 점, 하나의 데이터를 여러 페이지에서 쓴다는 점이 SPA를 만들기에 용이하다고 생각했습니다.   
 그리고 자사 제품을 돋보이게 만드는 스크롤 이벤트 애니메이션이 특징적이라서 이 사이트를 선정했습니다.   
 
@@ -120,7 +120,22 @@ props로 1depth 페이지 컴포넌트에 가지고 들어갈 데이터를 구�
 
 <br /><br />
 
-## 5. 테스트 케이스
+## 5. 기능 시연
+
+### 5-1. 로딩 페이지
+![loading](https://github.com/Ba-latte/citadellegin-app/assets/118030935/79209815-7a30-4b85-8b9a-72ea0f74de6f)   
+
+### 5-2. 쿠키를 활용한 법적 나이 체크 팝업창
+![legal_age_check01](https://github.com/Ba-latte/citadellegin-app/assets/118030935/8365d551-e50b-42e1-a811-29ca2ea5c9ca)   
+![legal_age_check02](https://github.com/Ba-latte/citadellegin-app/assets/118030935/9b9b3aca-d48d-4665-9d6c-ee2873703505)   
+
+### 5-3. 햄버거 버튼 클릭 시 gnb 메뉴 등장 클립패스 애니메이션   
+![menu_animation01](https://github.com/Ba-latte/citadellegin-app/assets/118030935/62abdf45-b42a-418b-a416-d6ef9ba0e624)   
+
+### 5-4. 1depth 페이지 순환 구조   
+
+
+### 5-5. 스크롤 이벤트에 따른 보틀 회전 애니메이션   
 
 <br /><br />
 
