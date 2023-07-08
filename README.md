@@ -126,12 +126,9 @@ props로 1depth 페이지 컴포넌트에 가지고 들어갈 데이터를 구�
 ![loading_830](https://github.com/Ba-latte/citadellegin-app/assets/118030935/32cdf5c4-a9eb-486d-8412-4e866df85388)
 
 ### 5-2. 쿠키를 활용한 법적 나이 체크 팝업창
-<figure style='width: "400px"'>
-  <img src='https://github.com/Ba-latte/citadellegin-app/assets/118030935/81429853-8504-4c6b-a49c-05f87649bddf' />
-</figure>
-<figure style='width: "400px"'>
-  <img src='https://github.com/Ba-latte/citadellegin-app/assets/118030935/54063d05-d676-48df-a0f7-9a6a44af7300' />
-</figure>
+
+<img src='https://github.com/Ba-latte/citadellegin-app/assets/118030935/81429853-8504-4c6b-a49c-05f87649bddf' width='400px' />
+<img src='https://github.com/Ba-latte/citadellegin-app/assets/118030935/54063d05-d676-48df-a0f7-9a6a44af7300' width='400px' aligh="right" />
 
 <!--
 ![legal_age_check01](https://github.com/Ba-latte/citadellegin-app/assets/118030935/81429853-8504-4c6b-a49c-05f87649bddf)
