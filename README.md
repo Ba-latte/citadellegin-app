@@ -127,9 +127,14 @@ props로 1depth 페이지 컴포넌트에 가지고 들어갈 데이터를 구�
 
 ### 5-2. 쿠키를 활용한 법적 나이 체크 팝업창
 <p>
+  <img src='https://github.com/Ba-latte/citadellegin-app/assets/118030935/81429853-8504-4c6b-a49c-05f87649bddf' />
+  <img src='https://github.com/Ba-latte/citadellegin-app/assets/118030935/54063d05-d676-48df-a0f7-9a6a44af7300' />
+</p>
+
+<!--
 ![legal_age_check01](https://github.com/Ba-latte/citadellegin-app/assets/118030935/81429853-8504-4c6b-a49c-05f87649bddf)
 ![legal_age_check02](https://github.com/Ba-latte/citadellegin-app/assets/118030935/54063d05-d676-48df-a0f7-9a6a44af7300)   
-</p>
+-->
 
 ### 5-3. 햄버거 버튼 클릭 시 gnb 메뉴 등장 클립패스 애니메이션   
 ![menu_animation01](https://github.com/Ba-latte/citadellegin-app/assets/118030935/48accf6d-32af-4ab8-9e34-2ad6568a303e)
