@@ -21,6 +21,7 @@ React를 활용해서 만든 SPA 포트폴리오입니다.
 <br /><br />
 
 ## 1. 🍹기획의도
+<!--
 -프로젝트 리드미를 작성할 때 프로젝트의 "무엇을","왜","어떻게"에 대해서 답을 해야 함
 -이를 답하기 위해 도와줄 질문들
 (1)동기가 무엇이었나요?
@@ -43,6 +44,7 @@ React를 활용해서 만든 SPA 포트폴리오입니다.
 (이 플젝을 통해 무엇을 배웠나?)
 리액트를 배우며 바로 활용해보는 것을 배움
 객체 데이터를 값과 속성, 따로 컨트롤 하는 법을 배움
+-->
 
 
 약 6주의 기간을 잡고 정해진 기간 안에 다음의 목표를 달성하고자 노력했습니다.
@@ -133,8 +135,8 @@ chrome을 기준으로 개발하였기 때문에 되도록 chrome을 사용해�
 ### 4-2. 쿠키를 활용한 법적 나이 체크 팝업창
 <p align="center">
   <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/9330c0a7-d26c-4a53-8244-961e0dd39a0c" width="830px" />
-  <img src='https://github.com/Ba-latte/citadellegin-app/assets/118030935/81429853-8504-4c6b-a49c-05f87649bddf' width="415px" />
-  <img src='https://github.com/Ba-latte/citadellegin-app/assets/118030935/54063d05-d676-48df-a0f7-9a6a44af7300' width="415px" aligh="right" /> 
+  <img src='https://github.com/Ba-latte/citadellegin-app/assets/118030935/81429853-8504-4c6b-a49c-05f87649bddf' width="410px" />
+  <img src='https://github.com/Ba-latte/citadellegin-app/assets/118030935/54063d05-d676-48df-a0f7-9a6a44af7300' width="410px" aligh="right" /> 
 </p>
 
 술과 관련된 처음 사이트에 들어왔을 때 법적 나이를 확인하는 팝업창을 띄웁니다.   
@@ -155,8 +157,8 @@ Yes 버튼을 클릭하면 메인 화면으로 바뀌며 하단의 7일간 보�
   <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/9e4f1162-0604-4749-ba84-83fb31591963" width="830px" />
   <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/52a60d0b-6238-47a1-950d-e8b8ad206508" width="830px" />
   <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/1e8782af-55ab-4d98-a09f-ff3ff0f2923f" width="830px" />
-  <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/48accf6d-32af-4ab8-9e34-2ad6568a303e" width="415px" />
-  <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/0e3435e3-e9ac-46c7-972f-ea273503fa91" width="415px" aligh="right" /> 
+  <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/48accf6d-32af-4ab8-9e34-2ad6568a303e" width="410px" />
+  <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/0e3435e3-e9ac-46c7-972f-ea273503fa91" width="410px" aligh="right" /> 
 </p>
 
 상단 오른쪽의 노란색 햄버거 버튼을 클릭시 gnb 메뉴가 등장하는데 햄버거 버튼 가운데에서부터 원 모양으로 나타나도록 애니메이션을 구현했습니다.   
@@ -174,8 +176,8 @@ Yes 버튼을 클릭하면 메인 화면으로 바뀌며 하단의 7일간 보�
 ### 4-4. 1depth 페이지 순환 구조
 <p align="center">
   <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/375150b4-e4f8-4b8f-83d3-05677b10be86" width="830px" />
-  <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/25db6791-6403-4676-80bf-b9cb532cd1ee" width="415px" />
-  <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/eef105df-c67f-464d-8076-0bf015199294" width="415px" aligh="right" />
+  <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/25db6791-6403-4676-80bf-b9cb532cd1ee" width="410px" />
+  <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/eef105df-c67f-464d-8076-0bf015199294" width="410px" aligh="right" />
 </p>
 
 1depth 페이지의 최하단에 다음 페이지로의 링크 모듈 컴포넌트를 추가하여 순환하는 구조로 만들었습니다.   
@@ -193,8 +195,8 @@ props로 1depth 페이지 컴포넌트에 가지고 들어갈 데이터를 구�
   <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/9bbf403b-7d79-4e12-ba71-d78d28e60ddf" width="830px" />
   <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/8ad813bb-3d42-472e-b162-dc1fde703887" width="830px" />
   <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/c16e6969-60b9-4e82-a7ea-d626aeb1aa10" width="830px" />
-  <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/9ae7c976-1398-467c-a6a7-aa4ffc4e6e7a" />
-  <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/4c40b84b-652d-4fad-931e-6dac240702a6" aligh="right" />
+  <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/9ae7c976-1398-467c-a6a7-aa4ffc4e6e7a" width="410px" />
+  <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/4c40b84b-652d-4fad-931e-6dac240702a6" width="410px" aligh="right" />
 </p>
 
 스크롤 이벤트가 발생할 때마다 이전 스크롤 위치값과 현재 스크롤 위치값을 구해와 값을 비교하여 방향을 정합니다.   
