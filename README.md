@@ -127,27 +127,38 @@ props로 1depth 페이지 컴포넌트에 가지고 들어갈 데이터를 구�
 
 ### 5-2. 쿠키를 활용한 법적 나이 체크 팝업창
 
-<img src='https://github.com/Ba-latte/citadellegin-app/assets/118030935/81429853-8504-4c6b-a49c-05f87649bddf' width='400px' />
-<img src='https://github.com/Ba-latte/citadellegin-app/assets/118030935/54063d05-d676-48df-a0f7-9a6a44af7300' width='400px' aligh="right" />
-
+<img src='https://github.com/Ba-latte/citadellegin-app/assets/118030935/81429853-8504-4c6b-a49c-05f87649bddf' />
+<img src='https://github.com/Ba-latte/citadellegin-app/assets/118030935/54063d05-d676-48df-a0f7-9a6a44af7300' aligh="right" />
 <!--
 ![legal_age_check01](https://github.com/Ba-latte/citadellegin-app/assets/118030935/81429853-8504-4c6b-a49c-05f87649bddf)
 ![legal_age_check02](https://github.com/Ba-latte/citadellegin-app/assets/118030935/54063d05-d676-48df-a0f7-9a6a44af7300)   
 -->
 
 ### 5-3. 햄버거 버튼 클릭 시 gnb 메뉴 등장 클립패스 애니메이션   
+<img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/48accf6d-32af-4ab8-9e34-2ad6568a303e" />
+<img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/0e3435e3-e9ac-46c7-972f-ea273503fa91" aligh="right" />
+<!--
 ![menu_animation01](https://github.com/Ba-latte/citadellegin-app/assets/118030935/48accf6d-32af-4ab8-9e34-2ad6568a303e)
 ![menu_animation02](https://github.com/Ba-latte/citadellegin-app/assets/118030935/0e3435e3-e9ac-46c7-972f-ea273503fa91)
+-->
 
 ### 5-4. 1depth 페이지 순환 구조   
+<img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/25db6791-6403-4676-80bf-b9cb532cd1ee" />
+<img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/eef105df-c67f-464d-8076-0bf015199294" aligh="right" />
+<!--
 ![loop01](https://github.com/Ba-latte/citadellegin-app/assets/118030935/25db6791-6403-4676-80bf-b9cb532cd1ee)
 ![loop02](https://github.com/Ba-latte/citadellegin-app/assets/118030935/eef105df-c67f-464d-8076-0bf015199294)   
+-->
 
 
 
 ### 5-5. 스크롤 이벤트에 따른 보틀 회전 애니메이션   
+<img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/9ae7c976-1398-467c-a6a7-aa4ffc4e6e7a" />
+<img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/4c40b84b-652d-4fad-931e-6dac240702a6" aligh="right" />
+<!--
 ![bottle_spin_animation01](https://github.com/Ba-latte/citadellegin-app/assets/118030935/9ae7c976-1398-467c-a6a7-aa4ffc4e6e7a)
 ![bottle_spin_animation02](https://github.com/Ba-latte/citadellegin-app/assets/118030935/4c40b84b-652d-4fad-931e-6dac240702a6)
+-->
 
 <br /><br />
 
