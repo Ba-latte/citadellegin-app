@@ -143,8 +143,8 @@ props로 1depth 페이지 컴포넌트에 가지고 들어갈 데이터를 구�
 -->
 
 ### 5-4. 1depth 페이지 순환 구조   
-<img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/25db6791-6403-4676-80bf-b9cb532cd1ee" />
-<img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/eef105df-c67f-464d-8076-0bf015199294" aligh="right" />
+<img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/25db6791-6403-4676-80bf-b9cb532cd1ee" width="410px" />
+<img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/eef105df-c67f-464d-8076-0bf015199294" width="410px" aligh="right" />
 <!--
 ![loop01](https://github.com/Ba-latte/citadellegin-app/assets/118030935/25db6791-6403-4676-80bf-b9cb532cd1ee)
 ![loop02](https://github.com/Ba-latte/citadellegin-app/assets/118030935/eef105df-c67f-464d-8076-0bf015199294)   
@@ -153,8 +153,8 @@ props로 1depth 페이지 컴포넌트에 가지고 들어갈 데이터를 구�
 
 
 ### 5-5. 스크롤 이벤트에 따른 보틀 회전 애니메이션   
-<img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/9ae7c976-1398-467c-a6a7-aa4ffc4e6e7a" />
-<img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/4c40b84b-652d-4fad-931e-6dac240702a6" aligh="right" />
+<img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/9ae7c976-1398-467c-a6a7-aa4ffc4e6e7a" width="410px" />
+<img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/4c40b84b-652d-4fad-931e-6dac240702a6" width="410px" aligh="right" />
 <!--
 ![bottle_spin_animation01](https://github.com/Ba-latte/citadellegin-app/assets/118030935/9ae7c976-1398-467c-a6a7-aa4ffc4e6e7a)
 ![bottle_spin_animation02](https://github.com/Ba-latte/citadellegin-app/assets/118030935/4c40b84b-652d-4fad-931e-6dac240702a6)
