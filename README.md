@@ -136,7 +136,10 @@ chrome을 기준으로 개발하였기 때문에 되도록 **chrome**을 사용�
 
 <details>
   <summary>모바일버전</summary>
-<br />
+  <br />
+  <p align="center">
+    <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/bce73118-3bcd-4d64-882e-98e914b7cbe0" width="300px" />
+  </p>
 </details>
 
 <br />
@@ -156,7 +159,12 @@ Yes 버튼을 클릭하면 메인 화면으로 바뀌며 하단의 7일간 보�
 
 <details>
   <summary>모바일버전</summary>
-<br />
+  <br />
+  <p align="center">
+    <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/ef87aa52-b0ba-424b-abd1-d0e36884834d" height="350px" />
+    <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/ee689289-d8ef-4f0c-9087-6bc80ca47ab9" height="350px" />
+    <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/e60e6c72-424d-456b-bbb2-98efa6f7c707" height="350px" />
+  </p>
 </details>
 
 <br />
@@ -177,7 +185,10 @@ Yes 버튼을 클릭하면 메인 화면으로 바뀌며 하단의 7일간 보�
 
 <details>
   <summary>모바일버전</summary>
-<br />
+  <br />
+  <p align="center">
+    <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/820a48df-1f33-4d4f-93cb-0717ce71373d" width="300px" />
+  </p>
 </details>
 
 <br />
@@ -194,7 +205,11 @@ props로 1depth 페이지 컴포넌트에 가지고 들어갈 데이터를 구�
 
 <details>
   <summary>모바일버전</summary>
-<br />
+  <br />
+  <p align="center">
+    <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/549f584b-94eb-4669-8107-361bedaaf387" height="350px" />
+    <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/c31ceb95-d380-4bf4-b26a-4eefdad72af7" height="350px" />
+  </p>
 </details>
 
 <br />
@@ -214,7 +229,11 @@ props로 1depth 페이지 컴포넌트에 가지고 들어갈 데이터를 구�
 
 <details>
   <summary>모바일버전</summary>
-<br />
+  <br />
+  <p align="center">
+    <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/b15fb974-5a5c-4eb5-8137-6e3646f83896" height="350px" />
+    <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/dbe78ba9-5cd1-4407-9637-fb2492b71c52" height="350px" />
+  </p>
 </details>
 
 <br /><br />
