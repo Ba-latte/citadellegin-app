@@ -114,7 +114,11 @@ chrome을 기준으로 개발하였기 때문에 되도록 **chrome**을 사용�
 <br />
 
 ### 3-3. 각 페이지별 구조
-각 페이지별 구조도를 추가할 예정입니다.   
+<p align="center">
+  <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/db7c0af3-1854-4ca9-886e-c50b971a1448" width="250px" />
+  <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/c4448bef-d82c-4728-84c8-e6afa32f4371" width="250px" />
+  <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/f9cc75c3-f2c4-4b24-b78b-6ea2c495eb82" width="250px" />
+</p>
 
 <br /><br />
 <br /><br />
