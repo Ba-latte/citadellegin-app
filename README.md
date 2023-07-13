@@ -228,9 +228,12 @@ props로 1depth 페이지 컴포넌트에 가지고 들어갈 데이터를 구�
 
 ### 4-5. 스크롤 이벤트에 따른 보틀 회전 애니메이션
 <p align="center">
+  <!--
   <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/9bbf403b-7d79-4e12-ba71-d78d28e60ddf" width="830px" />
   <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/8ad813bb-3d42-472e-b162-dc1fde703887" width="830px" />
   <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/c16e6969-60b9-4e82-a7ea-d626aeb1aa10" width="830px" />
+  -->
+  <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/3f7b7f44-b88c-4ee3-a017-8406edf0950a" width="830px" />
   <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/9ae7c976-1398-467c-a6a7-aa4ffc4e6e7a" width="410px" />
   <img src="https://github.com/Ba-latte/citadellegin-app/assets/118030935/4c40b84b-652d-4fad-931e-6dac240702a6" width="410px" aligh="right" />
 </p>
